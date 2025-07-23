@@ -1,0 +1,1 @@
+import{b_ as o,a0 as e}from"./entry.9c1d5b97.js";import{u as t}from"./user.20dd6b6a.js";const u=o((r,s)=>{if(t().getToken){if(r.path==="/")return e("/home")}else return e("/login")});export{u as default};
