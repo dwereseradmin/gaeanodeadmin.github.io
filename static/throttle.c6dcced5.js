@@ -1,0 +1,1 @@
+import{a8 as s}from"./el-button.53bd2b0d.js";const l={},a=Object.freeze(Object.defineProperty({__proto__:null,default:l},Symbol.toStringTag,{value:"Module"})),f=s(a);let e;const n=(t,o=5e3,r=!0)=>{r?e||(e=!0,typeof t=="function"&&t(),setTimeout(()=>{e=!1},o)):e||(e=!0,setTimeout(()=>{e=!1,typeof t=="function"&&t()},o))};export{f as r,n as t};
